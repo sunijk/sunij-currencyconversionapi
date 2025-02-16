@@ -1,0 +1,80 @@
+2025-02-16 18:13:18.038 +05:30 [INF] User profile is available. Using 'C:\Users\sunij\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-16 18:13:18.665 +05:30 [INF] Now listening on: https://localhost:7173
+2025-02-16 18:13:18.668 +05:30 [INF] Now listening on: http://localhost:5236
+2025-02-16 18:13:18.833 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 18:13:18.835 +05:30 [INF] Hosting environment: Development
+2025-02-16 18:13:18.837 +05:30 [INF] Content root path: C:\Users\sunij\Desktop\Bamboo\CurrencyCOnversion_GIT\sunij-currencyconversionapi\CurrencyConversion.API
+2025-02-16 18:13:19.577 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger - null null
+2025-02-16 18:13:19.843 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger, Status: 301, ResponseTime: 8ms
+2025-02-16 18:13:19.852 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger - 301 0 null 316.4424ms
+2025-02-16 18:13:19.857 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/index.html - null null
+2025-02-16 18:13:19.946 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/index.html, Status: 200, ResponseTime: 77ms
+2025-02-16 18:13:19.951 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/index.html - 200 null text/html;charset=utf-8 93.9542ms
+2025-02-16 18:13:19.964 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/index.css - null null
+2025-02-16 18:13:19.965 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/index.js - null null
+2025-02-16 18:13:19.964 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/swagger-ui.css - null null
+2025-02-16 18:13:19.965 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/swagger-ui-standalone-preset.js - null null
+2025-02-16 18:13:19.964 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/swagger-ui-bundle.js - null null
+2025-02-16 18:13:19.987 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/index.js, Status: 200, ResponseTime: 0ms
+2025-02-16 18:13:19.965 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-16 18:13:19.996 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/index.js - 200 null application/javascript;charset=utf-8 31.0904ms
+2025-02-16 18:13:19.996 +05:30 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-02-16 18:13:19.974 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/_vs/browserLink - null null
+2025-02-16 18:13:20.006 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/index.css, Status: 200, ResponseTime: 24ms
+2025-02-16 18:13:20.011 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/index.css - 200 202 text/css 47.2439ms
+2025-02-16 18:13:20.016 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/_framework/aspnetcore-browser-refresh.js - 200 13796 application/javascript; charset=utf-8 51.2489ms
+2025-02-16 18:13:20.027 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-16 18:13:20.030 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-02-16 18:13:20.033 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/swagger-ui.css, Status: 200, ResponseTime: 44ms
+2025-02-16 18:13:20.034 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/swagger-ui-standalone-preset.js, Status: 200, ResponseTime: 42ms
+2025-02-16 18:13:20.039 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/swagger-ui.css - 200 152035 text/css 75.467ms
+2025-02-16 18:13:20.043 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/swagger-ui-standalone-preset.js - 200 230007 text/javascript 78.7345ms
+2025-02-16 18:13:20.066 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-02-16 18:13:20.068 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/swagger-ui-bundle.js, Status: 200, ResponseTime: 73ms
+2025-02-16 18:13:20.072 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/swagger-ui-bundle.js - 200 1426050 text/javascript 108.0452ms
+2025-02-16 18:13:20.096 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/_vs/browserLink - 200 null text/javascript; charset=UTF-8 123.5874ms
+2025-02-16 18:13:20.279 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/v1/swagger.json - null null
+2025-02-16 18:13:20.294 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/v1/swagger.json, Status: 200, ResponseTime: 10ms
+2025-02-16 18:13:20.296 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.9388ms
+2025-02-16 18:13:20.307 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/swagger/favicon-32x32.png - null null
+2025-02-16 18:13:20.313 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-02-16 18:13:20.315 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /swagger/favicon-32x32.png, Status: 200, ResponseTime: 2ms
+2025-02-16 18:13:20.319 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/swagger/favicon-32x32.png - 200 628 image/png 11.9399ms
+2025-02-16 18:13:33.550 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7173/api/auth/login - application/json 51
+2025-02-16 18:13:33.812 +05:30 [INF] Executing endpoint 'CurrencyConversion.API.Controllers.AuthController.Login (CurrencyConversion.API)'
+2025-02-16 18:13:33.844 +05:30 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(LoginRequest) on controller CurrencyConversion.API.Controllers.AuthController (CurrencyConversion.API).
+2025-02-16 18:13:33.889 +05:30 [INF] Executing action method CurrencyConversion.API.Controllers.AuthController.Login (CurrencyConversion.API) - Validation state: "Valid"
+2025-02-16 18:13:33.949 +05:30 [INF] Executed action method CurrencyConversion.API.Controllers.AuthController.Login (CurrencyConversion.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 55.0193ms.
+2025-02-16 18:13:33.958 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-02-16 18:13:33.971 +05:30 [INF] Executed action CurrencyConversion.API.Controllers.AuthController.Login (CurrencyConversion.API) in 119.6569ms
+2025-02-16 18:13:33.974 +05:30 [INF] Executed endpoint 'CurrencyConversion.API.Controllers.AuthController.Login (CurrencyConversion.API)'
+2025-02-16 18:13:33.975 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: POST, Path: /api/auth/login, Status: 200, ResponseTime: 389ms
+2025-02-16 18:13:33.976 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7173/api/auth/login - 200 null application/json; charset=utf-8 426.7915ms
+2025-02-16 18:13:55.565 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/api/exchangerates/convert?from=eur&to=inr&amount=1000 - null null
+2025-02-16 18:13:55.636 +05:30 [INF] Executing endpoint 'CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API)'
+2025-02-16 18:13:55.648 +05:30 [INF] Route matched with {action = "ConvertCurrency", controller = "CurrencyExchangeRates"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ConvertCurrency(System.String, System.String, System.Decimal) on controller CurrencyConversion.API.Controllers.CurrencyExchangeRatesController (CurrencyConversion.API).
+2025-02-16 18:13:55.654 +05:30 [INF] Executing action method CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API) - Validation state: "Valid"
+2025-02-16 18:13:55.670 +05:30 [INF] Start processing HTTP request GET https://api.frankfurter.app/latest?*
+2025-02-16 18:13:55.684 +05:30 [INF] Sending HTTP request GET https://api.frankfurter.app/latest?*
+2025-02-16 18:13:56.765 +05:30 [INF] Received HTTP response headers after 1077.8212ms - 200
+2025-02-16 18:13:56.768 +05:30 [INF] End processing HTTP request after 1098.4206ms - 200
+2025-02-16 18:13:56.905 +05:30 [INF] Executed action method CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 1250.5538ms.
+2025-02-16 18:13:56.910 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2025-02-16 18:13:56.912 +05:30 [INF] Executed action CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API) in 1262.1444ms
+2025-02-16 18:13:56.914 +05:30 [INF] Executed endpoint 'CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API)'
+2025-02-16 18:13:56.917 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /api/exchangerates/convert, Status: 400, ResponseTime: 1325ms
+2025-02-16 18:13:56.920 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/api/exchangerates/convert?from=eur&to=inr&amount=1000 - 400 null text/plain; charset=utf-8 1357.6898ms
+2025-02-16 18:14:05.999 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7173/api/exchangerates/convert?from=EUR&to=INR&amount=1000 - null null
+2025-02-16 18:14:06.011 +05:30 [INF] Executing endpoint 'CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API)'
+2025-02-16 18:14:06.014 +05:30 [INF] Route matched with {action = "ConvertCurrency", controller = "CurrencyExchangeRates"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ConvertCurrency(System.String, System.String, System.Decimal) on controller CurrencyConversion.API.Controllers.CurrencyExchangeRatesController (CurrencyConversion.API).
+2025-02-16 18:14:06.016 +05:30 [INF] Executing action method CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API) - Validation state: "Valid"
+2025-02-16 18:14:06.017 +05:30 [INF] Start processing HTTP request GET https://api.frankfurter.app/latest?*
+2025-02-16 18:14:06.019 +05:30 [INF] Sending HTTP request GET https://api.frankfurter.app/latest?*
+2025-02-16 18:14:06.990 +05:30 [INF] Received HTTP response headers after 970.6599ms - 200
+2025-02-16 18:14:06.994 +05:30 [INF] End processing HTTP request after 976.8101ms - 200
+2025-02-16 18:14:06.999 +05:30 [INF] Executed action method CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 982.2358ms.
+2025-02-16 18:14:07.001 +05:30 [INF] Executing OkObjectResult, writing value of type 'CurrencyConversion.Domain.Entities.CurrencyConversionReponse'.
+2025-02-16 18:14:07.006 +05:30 [INF] Executed action CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API) in 990.2956ms
+2025-02-16 18:14:07.007 +05:30 [INF] Executed endpoint 'CurrencyConversion.API.Controllers.CurrencyExchangeRatesController.ConvertCurrency (CurrencyConversion.API)'
+2025-02-16 18:14:07.008 +05:30 [INF] Request Info: Client IP: ::1, ClientId: null, Method: GET, Path: /api/exchangerates/convert, Status: 200, ResponseTime: 1002ms
+2025-02-16 18:14:07.010 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7173/api/exchangerates/convert?from=EUR&to=INR&amount=1000 - 200 null application/json; charset=utf-8 1012.0375ms
